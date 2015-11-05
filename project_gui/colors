@@ -1,0 +1,70 @@
+6
+530.0 457.0 0xffe4b5ff
+357.0 557.0 0xffc0cbff
+357.0 157.0 0xee82eeff
+530.0 257.0 0xff00ffff
+184.0 457.0 0xc71585ff
+184.0 257.0 0x800080ff
+
+
+//
+//        SquareColor aqua = new SquareColor(Color.AQUA, newNodeCanvas, 942+40, 62);
+//        SquareColor blue = new SquareColor(Color.BLUE, newNodeCanvas, 964+40, 62);
+//        SquareColor navy = new SquareColor(Color.NAVY, newNodeCanvas, 986+40, 62);
+//        SquareColor teal = new SquareColor(Color.TEAL, newNodeCanvas, 1008+40, 62);
+//        SquareColor green = new SquareColor(Color.GREEN, newNodeCanvas, 1030+40, 62);
+//        SquareColor yellowgreen = new SquareColor(Color.YELLOWGREEN, newNodeCanvas, 1052+40, 62);
+//        SquareColor lime = new SquareColor(Color.LIME, newNodeCanvas, 1074+40, 62);
+//        SquareColor greenyellow = new SquareColor(Color.GREENYELLOW, newNodeCanvas, 1096+40, 62);
+//        SquareColor yellow = new SquareColor(Color.YELLOW, newNodeCanvas, 1118+40, 62);
+//        SquareColor gold = new SquareColor(Color.GOLD, newNodeCanvas, 1140+40, 62);
+//        SquareColor orange = new SquareColor(Color.ORANGE, newNodeCanvas, 1162+40, 62);
+//
+//        SquareColor moccasin = new SquareColor(Color.MOCCASIN, newNodeCanvas, 942+40, 84);
+//        SquareColor pink = new SquareColor(Color.PINK, newNodeCanvas, 964+40, 84);
+//        SquareColor violet = new SquareColor(Color.VIOLET, newNodeCanvas, 986+40, 84);
+//        SquareColor mpurple = new SquareColor(Color.MEDIUMPURPLE, newNodeCanvas, 1008+40, 84);
+//        SquareColor purple = new SquareColor(Color.PURPLE, newNodeCanvas, 1030+40, 84);
+//        SquareColor mvioletred = new SquareColor(Color.MEDIUMVIOLETRED, newNodeCanvas, 1052+40, 84);
+//        SquareColor fuchsia = new SquareColor(Color.FUCHSIA, newNodeCanvas, 1074+40, 84);
+//        SquareColor crimson = new SquareColor(Color.CRIMSON, newNodeCanvas, 1096+40, 84);
+//        SquareColor darkred = new SquareColor(Color.DARKRED, newNodeCanvas, 1118+40, 84);
+//        SquareColor red = new SquareColor(Color.RED, newNodeCanvas, 1140+40, 84);
+//        SquareColor orangered = new SquareColor(Color.ORANGERED, newNodeCanvas, 1162+40, 84);
+//
+//        SquareColor sandybrown = new SquareColor(Color.SANDYBROWN, newNodeCanvas, 942+40, 106);
+//        SquareColor chocolate = new SquareColor(Color.CHOCOLATE, newNodeCanvas, 964+40, 106);
+//        SquareColor saddlebrown = new SquareColor(Color.SADDLEBROWN, newNodeCanvas, 986+40, 106);
+//        SquareColor gray = new SquareColor(Color.GRAY, newNodeCanvas, 1008+40, 106);
+//        SquareColor black = new SquareColor(Color.BLACK, newNodeCanvas, 1030+40, 106);
+//
+//
+//        listOfColors.add(aqua);
+//        listOfColors.add(blue);
+//        listOfColors.add(navy);
+//        listOfColors.add(teal);
+//        listOfColors.add(greenyellow);
+//        listOfColors.add(green);
+//        listOfColors.add(lime);
+//        listOfColors.add(yellowgreen);
+//        listOfColors.add(yellow);
+//        listOfColors.add(gold);
+//        listOfColors.add(orange);
+//
+//        listOfColors.add(moccasin);
+//        listOfColors.add(pink);
+//        listOfColors.add(violet);
+//        listOfColors.add(mpurple);
+//        listOfColors.add(purple);
+//        listOfColors.add(mvioletred);
+//        listOfColors.add(fuchsia);
+//        listOfColors.add(crimson);
+//        listOfColors.add(darkred);
+//        listOfColors.add(red);
+//        listOfColors.add(orangered);
+//
+//        listOfColors.add(sandybrown);
+//        listOfColors.add(chocolate);
+//        listOfColors.add(saddlebrown);
+//        listOfColors.add(gray);
+//        listOfColors.add(black);
